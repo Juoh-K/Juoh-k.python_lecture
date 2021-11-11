@@ -15,4 +15,5 @@ while True:
     elif myfood == "끝":
         break
     else:
-        print("그런 음식이 없습니다. 확인해보세요.")
+        print("그런 음식이 없습니다. 확인해보세요.")   
+        
